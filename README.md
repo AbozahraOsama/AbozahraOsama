@@ -21,4 +21,4 @@ Senior Frontend Developer at Asset
 - 💚 love to learn new things everyday
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about JavaScript, HTML, CSS or any web technology hopefully I will be able to help you
-  or to get in touch, feel free to message me on [Twitter](https://twitter.com/osamaabozahra)
+  or to get in touch, feel free to message me on [X](https://twitter.com/osamaabozahra)
