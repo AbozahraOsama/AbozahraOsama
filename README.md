@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Osama 👋
-Senior Frontend Developer at Asset
+I'm Osama 👋
+Frontend Tech Lead at NCGR
 
-- 🔭 building things in JavaScript - mostly Vue, Angular, React and Firebase!
+- 🔭 building things in JavaScript - mostly Angular, Vue, React and Firebase!
 - 💚 love to learn new things everyday
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about JavaScript, HTML, CSS or any web technology hopefully I will be able to help you
